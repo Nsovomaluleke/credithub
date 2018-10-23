@@ -1,1 +1,1 @@
-# credithub
+# config-server
